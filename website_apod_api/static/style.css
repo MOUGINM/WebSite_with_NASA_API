@@ -1,0 +1,29 @@
+body, html {
+    background-color: rgba(7, 7, 7, 0.6);
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Orbitron', sans-serif;
+    overflow-x: hidden;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100vh;
+    align-items: flex-start;
+}
+.content {
+    flex: 0 0 17%;
+    padding: 20px;
+    color: #FFF;
+    background-color: rgba(7, 7, 7, 0.6);
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.image-container {
+    flex: 1;
+    background: url('') no-repeat center center;
+    background-size: cover;
+    width: 80%;
+    height: 100vh;
+}
