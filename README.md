@@ -12,4 +12,5 @@ FOR USE YOU CAN GET FREE KEY API IN NASA WEBSITE.
 
 ![DEMO](https://github.com/MOUGINM/project/blob/main/APOD/Picture_APOD2.png)
 
-[𒅒𒈔𒅒𒇫𒄆](https://open.spotify.com/intl-fr/track/6pWgRkpqVfxnj3WuIcJ7WP){:target="_blank"}
+[![𒅒𒈔𒅒𒇫𒄆](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/intl-fr/track/6pWgRkpqVfxnj3WuIcJ7WP)
+
