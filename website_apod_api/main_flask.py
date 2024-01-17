@@ -1,7 +1,7 @@
 # app.py
 from flask import Flask, render_template
 import requests
-from config import NASA_API_KEY  # Importez la clé API depuis le fichier de configuration
+from config import NASA_API_KEY  # Importez la clé API depuis le fichier de configuration ou placer la plus bas entre guillet.
 
 app = Flask(__name__)
 
