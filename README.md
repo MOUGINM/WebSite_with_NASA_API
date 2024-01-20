@@ -1,7 +1,7 @@
 ## :rocket: **NASA API Planetary APOD**
 
 ### 🌌 Description
-Découvrezl'univers. = API APOD (Astronomy Picture of the Day) de la NASA, vous offre chaque jour une nouvelle image spatiale captivante accompagnée de sa description.
+Découvrez l'univers. = API APOD (Astronomy Picture of the Day) de la NASA, vous offre chaque jour une nouvelle image spatiale captivante accompagnée de sa description.
 
 ### 🛠 Installation
 1. **Clonez le dépôt :**
