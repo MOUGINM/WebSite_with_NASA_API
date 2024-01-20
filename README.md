@@ -1,7 +1,7 @@
 ## :rocket: **NASA API Planetary APOD**
 
 ### 🌌 Description
-Découvrez les merveilles de l'univers avec notre application Flask. Utilisant l'API APOD (Astronomy Picture of the Day) de la NASA, elle vous offre chaque jour une nouvelle image spatiale captivante accompagnée de sa description détaillée.
+Découvrezl'univers. = API APOD (Astronomy Picture of the Day) de la NASA, vous offre chaque jour une nouvelle image spatiale captivante accompagnée de sa description.
 
 ### 🛠 Installation
 1. **Clonez le dépôt :**
@@ -16,7 +16,6 @@ Découvrez les merveilles de l'univers avec notre application Flask. Utilisant l
    ```bash
    python app.py
    ```
-
 ### 🌍 Utilisation
 Lancez votre navigateur et visitez `http://localhost:5000` pour découvrir l'image du jour de la NASA.
 
@@ -36,13 +35,8 @@ Explore the wonders of the universe with our Flask application. Using NASA's APO
    ```bash
    python app.py
    ```
-
 ### 🌍 Usage
 Launch your browser and visit `http://localhost:5000` to discover NASA's image of the day.
-```
-
-Tu peux maintenant copier et coller ce contenu directement dans ton fichier `README.md`. N'oublie pas de remplacer les liens de clone par les tiens.
-For new picture you can refresh page.
 
 FOR USE YOU CAN GET FREE KEY API IN NASA WEBSITE.
 
